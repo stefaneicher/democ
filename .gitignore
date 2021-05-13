@@ -1,1 +1,4 @@
 client
+.idea
+
+cmake-build-*
